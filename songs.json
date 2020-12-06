@@ -1,11 +1,11 @@
 {
 	"SongOfTheDay" :
 	[
-		{"SongTitle" : "Come Together" , "Artist" : "The Beatles" , "Genre" : "Classic Rock" , "Track Length" : "4:19" , "UserRating" : "5.0" , "SiteURL" : "https://www.thebeatles.com", "Image" : "store images in GIThub repository and put in link"} ,
-	  {"SongTitle" : "Sunday Best" , "Artist" : "Surfaces" , "Genre" : "Party Rock" , "Track Length" : "2:38" , "UserRating" : "4.3" , "SiteURL" : "https://www.surfacesmusic.com" , "Image" : "store images in GIThub repository and put in link"} ,
-	  {"SongTitle" : "Stairway to Heaven" , "Artist" : "Led Zeppelin" , "Genre" : "Classic Rock" , "Track Length" : "8:03" , "UserRating" : "4.8" , "SiteURL" : "https://www.ledzeppelin.com" , "Image" : "store images in GIThub repository and put in link"} ,
-	  {"SongTitle" : "Lose Yourself" , "Artist" : "Eminem" , "Genre" : "Rap" , "Track Length" : "5:27" , "UserRating" : "4.9" , "SiteURL" : "https://www.eminem.com" , "Image" : "store images in GIThub repository and put in link"} ,
-	  {"SongTitle" : "Intentions" , "Artist" : "Justin Bieber" , "Genre" : "Pop" , "Track Length" : "3:33" , "UserRating" : "4.3" , "SiteURL" : "https://www.justinbiebermusic.com" , "Image" : "store images in GIThub repository and put in link"}
+		{"SongTitle" : "Come Together" , "Artist" : "The Beatles" , "Genre" : "Classic Rock" , "Track Length" : "4:19" , "UserRating" : "5.0" , "SiteURL" : "https://www.thebeatles.com", "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/beatles.jpg"} ,
+	  {"SongTitle" : "Sunday Best" , "Artist" : "Surfaces" , "Genre" : "Party Rock" , "Track Length" : "2:38" , "UserRating" : "4.3" , "SiteURL" : "https://www.surfacesmusic.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/surfaces.jpg"} ,
+	  {"SongTitle" : "Stairway to Heaven" , "Artist" : "Led Zeppelin" , "Genre" : "Classic Rock" , "Track Length" : "8:03" , "UserRating" : "4.8" , "SiteURL" : "https://www.ledzeppelin.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/ledzep.jpg"} ,
+	  {"SongTitle" : "Lose Yourself" , "Artist" : "Eminem" , "Genre" : "Rap" , "Track Length" : "5:27" , "UserRating" : "4.9" , "SiteURL" : "https://www.eminem.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/Eminem.jpg"} ,
+	  {"SongTitle" : "Intentions" , "Artist" : "Justin Bieber" , "Genre" : "Pop" , "Track Length" : "3:33" , "UserRating" : "4.3" , "SiteURL" : "https://www.justinbiebermusic.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/bieber.jpg"}
 	], 
 	"status" : "OK"
 }
