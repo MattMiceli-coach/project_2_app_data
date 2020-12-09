@@ -5,11 +5,12 @@
 	  {"SongTitle" : "Sunday Best" , "Artist" : "Surfaces" , "Genre" : "Party Rock" , "Track Length" : "2:38" , "UserRating" : "4.3" , "SiteURL" : "https://www.surfacesmusic.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/surfaces.jpg"} ,
 	  {"SongTitle" : "Stairway to Heaven" , "Artist" : "Led Zeppelin" , "Genre" : "Classic Rock" , "Track Length" : "8:03" , "UserRating" : "4.8" , "SiteURL" : "https://www.ledzeppelin.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/ledzep.jpg"} ,
 	  {"SongTitle" : "Lose Yourself" , "Artist" : "Eminem" , "Genre" : "Rap" , "Track Length" : "5:27" , "UserRating" : "4.9" , "SiteURL" : "https://www.eminem.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/Eminem.jpg"} ,
-	  {"SongTitle" : "Intentions" , "Artist" : "Justin Bieber" , "Genre" : "Pop" , "Track Length" : "3:33" , "UserRating" : "4.3" , "SiteURL" : "https://www.justinbiebermusic.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/bieber.jpg"}
-	  {"SongTitle" : "Back in Black" , "Artist" : "AC/DC" , "Genre" : "Rock" , "Track Length" : "4:15" , "UserRating" : "4.7" , "SiteURL" : "https://pwrup.acdc.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/acdc.jpg"}
-	  {"SongTitle" : "Thriller" , "Artist" : "Michael Jackson" , "Genre" : "Pop" , "Track Length" : "5:57" , "UserRating" : "5.0" , "SiteURL" : "https://www.michaeljackson.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/michaeljackson.jpg"}
-	  {"SongTitle" : "Material Girl" , "Artist" : "Madonna" , "Genre" : "Dance Pop" , "Track Length" : "4:01" , "UserRating" : "4.6" , "SiteURL" : "https://www.madonna.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/madonna.jpg"}
+	  {"SongTitle" : "Intentions" , "Artist" : "Justin Bieber" , "Genre" : "Pop" , "Track Length" : "3:33" , "UserRating" : "4.3" , "SiteURL" : "https://www.justinbiebermusic.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/bieber.jpg"},
+	 {"SongTitle" : "Back in Black" , "Artist" : "AC/DC" , "Genre" : "Rock" , "Track Length" : "4:15" , "UserRating" : "4.7" , "SiteURL" : "https://pwrup.acdc.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/acdc.jpg"},
+	  {"SongTitle" : "Thriller" , "Artist" : "Michael Jackson" , "Genre" : "Pop" , "Track Length" : "5:57" , "UserRating" : "5.0" , "SiteURL" : "https://www.michaeljackson.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/michaeljackson.jpg"},
+	  {"SongTitle" : "Material Girl" , "Artist" : "Madonna" , "Genre" : "Dance Pop" , "Track Length" : "4:01" , "UserRating" : "4.6" , "SiteURL" : "https://www.madonna.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/madonna.jpg"},
 	  {"SongTitle" : "Shake it Off" , "Artist" : "Taylor Swift" , "Genre" : "Pop" , "Track Length" : "3:39" , "UserRating" : "4.4" , "SiteURL" : "https://www.taylorswift.com" , "Image" : "https://raw.githubusercontent.com/MattMiceli-coach/project_2_app_data/main/taylorswift.jpg"}
 	], 
 	"status" : "OK"
 }
+
